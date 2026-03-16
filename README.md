@@ -1,7 +1,7 @@
 # AWS EC2 + Custom VPC with Terraform
 
 > **Full deployment walkthrough also published on Medium:**
-> [Deploying AWS EC2 in a Custom VPC with Terraform — A Real Deployment Guide](https://medium.com/@greg.ethel)
+> [Deploying AWS EC2 in a Custom VPC with Terraform — A Real Guide (With Every Error I Hit)](https://medium.com/@greg.ethel/deploying-aws-ec2-in-a-custom-vpc-with-terraform-a-real-guide-with-every-error-i-hit-47d52b3db0e7)
 
 Automated deployment of an Ubuntu 20.04 EC2 instance inside a custom AWS VPC
 using Terraform. Deployed to **ca-central-1 (Canada Central)**.
